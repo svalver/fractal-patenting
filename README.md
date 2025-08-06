@@ -11,7 +11,7 @@ This repository contains:
 - A generative model of spatial innovation dynamics
 - Code to compute spatial inequality across scales
 - Analytical derivation of the inequality horizon
-- Empirical data from geolocated U.S. patents (1975–2020)
+- Empirical data from geolocated U.S. patents (1905–2024)
 
 ## Folders
 
