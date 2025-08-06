@@ -2,7 +2,7 @@
 
 Code and data for the paper:
 
-**Fractal clustering and urban scaling shape spatial inequality in U.S. patenting**
+**Fractal clusters and urban scaling shape spatial inequality in U.S. patenting**
 Duran-Nebreda et al., npj Complexity, 2025 (under review)
 
 ## Overview
