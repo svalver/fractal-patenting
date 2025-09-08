@@ -15,4 +15,4 @@ This repository contains:
 ## Folders
 
 - `/code/` – Python scripts for figures, simulation and analysis
-- `/data/` – Cleaned datasets or pointers to raw sources
+- `/data/` – Cleaned datasets
