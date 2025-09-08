@@ -2,8 +2,7 @@
 
 Code and data for the paper:
 
-**Fractal clusters and urban scaling shape spatial inequality in U.S. patenting**
-Salva Duran-Nebreda, Blai Vidiella, R. Alexander Bentley and Sergi Valverde (2005) npj Complexity, https://doi.org/10.1038/s44260-025-00054-y 
+Salva Duran-Nebreda, Blai Vidiella, R. Alexander Bentley and Sergi Valverde (2005) **Fractal clusters and urban scaling shape spatial inequality in U.S. patenting**, npj Complexity, https://doi.org/10.1038/s44260-025-00054-y 
 
 ## Overview
 
