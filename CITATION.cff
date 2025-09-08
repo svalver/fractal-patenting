@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Fractal clusters and urban scaling shape spatial inequality in U.S. patenting"
+authors:
+  - family-names: Duran-Nebreda
+    given-names: Salva
+  - family-names: Vidiella
+    given-names: Blai
+  - family-names: Bentley
+    given-names: R. Alexander
+  - family-names: Valverde
+    given-names: Sergi
+version: "1.0"
+doi: 10.5281/zenodo.17079686
+date-released: 2025-09-08
+url: "https://github.com/svalver/fractal-patenting/tree/v1.0"
+preferred-citation:
+  type: article
+  title: "Fractal clusters and urban scaling shape spatial inequality in U.S. patenting"
+  authors:
+    - family-names: Duran-Nebreda
+      given-names: Salva
+    - family-names: Vidiella
+      given-names: Blai
+    - family-names: Bentley
+      given-names: R. Alexander
+    - family-names: Valverde
+      given-names: Sergi
+  journal: "npj Complexity"
+  year: 2025
+  doi: "10.1038/s44260-025-00054-y"
+  url: "https://doi.org/10.1038/s44260-025-00054-y"
